@@ -7,7 +7,7 @@ Full Stack Developer
 Hi! I’m a professional Full Stack Developer. I am an expert on MERN stack and Next JS. I also have solid foundations in HTML5, CSS3, Bootstrap, Tailwind, React Bootstrap, and Flutter. I'm happiest when I'm creating, learning, exploring and thinking about how to make things better. I love to work with people in order to build things that matter. I'm eagerly looking for a career in a creative organization where I can implement my skills as well as increase my IT skills in the software process. • Work as part of a cross-functional team to provide a comprehensive user experience. • The ability to wear multiple hats and quickly learn new technologies. • The ability to test a website and identify bugs and technical problems.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Akash koodali](http://akashkoodali.com)
+* 🖥️  See my portfolio at [Akash koodali](http://akashkoodali.tk)
 * ✉️  You can contact me at [akashkoodali9@gmail.com](mailto:akashkoodali9@gmail.com)
 * 🧠  I'm learning Next JS
 * 🤝  I'm open to collaborating on Interesting Projects
